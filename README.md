@@ -28,7 +28,7 @@ Managing user experience with smooth interactions
 
 Clone the repository:
 
-git clone https://github.com/sudalesan/Intractive-Quiz-App.git
+git clone https://github.com/rshrivarshini5-prog/Quiz-app.git
 
 
 Open the project folder.
